@@ -1055,7 +1055,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.style = "display: none";
-        e.innerHTML = '<a href="https://mobirise.in">Mobirise Best Website Software</a> Mobirise v5.1.14';
+        e.innerHTML = '<a href="https://mobirise.in">Mobirise</a> Mobirise v5.1.14';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();
